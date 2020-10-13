@@ -1,0 +1,4 @@
+#This will be the main notebook for the capstone project 
+import pandas as pds 
+import numpy as np 
+print ("Hello Capstone Project Course!")
